@@ -19,5 +19,5 @@ criaCartao(
 criaCartao(
     'Lingua inglesa',
     'Como se diz Quantos anos você tem Inglês?',
-    'Quantos anos você tem? é How old are you? (RAI)'
+    'Quantos anos você tem? é How old are you?'
 )
